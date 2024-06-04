@@ -145,8 +145,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ShangHai, China; Sept 2023 - Dece 2023</font>
 </div>
 
-* Project: [tungstenite-rs](https://github.com/snapview/tungstenite-rs), an open source project with **18K+** stars in Github
-* 
+* Project: [tungstenite-rs](https://github.com/snapview/tungstenite-rs), [rustls](https://github.com/rustls/rustls)
 * Role: Core Developer
 * Duties included: Core InferenceEngine Developer, some examples I built:
   * Developing a high performance ws protocol library tungstenite-rs-fast
@@ -159,7 +158,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <h3><a href="#" style="text-decoration: none;"><span class="emph">BaseDao : Multifunctional DataBase Transaction Component </span></a></h3>
 </div>
 
-<div><a href="https://www.sensetime.com/en" style="text-decoration: none;">@ByteDance</a>
+<div><a href="https://www.sensetime.com/en" style="text-decoration: none;">@ByteDance TikTok</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ShenZhen, China; June 2023 - Octo 2023</font>
 </div>
 
