@@ -25,7 +25,7 @@ redirect_from:
 
 * Undergrad@[HUST](http://english.hust.edu.cn/) 
 * My primary research area is Machine Learning System. Nowadays I mainly worked on Cloud Systems for ML inference
-* I am very fortunate to be advised by [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(UIUC) and [Yao Wan](https://wanyao.me/)(HUST)
+* I am very fortunate to be advised by [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
 
 > please feel free to chat with me or drop me an email!
 
