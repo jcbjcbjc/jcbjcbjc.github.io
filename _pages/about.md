@@ -158,7 +158,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <h3><a href="#" style="text-decoration: none;"><span class="emph">BaseDao : Multifunctional DataBase Transaction Component </span></a></h3>
 </div>
 
-<div><a href="https://www.sensetime.com/en" style="text-decoration: none;">@ByteDance TikTok</a>
+<div><a href="https://www.bytedance.com/en/" style="text-decoration: none;">@ByteDance TikTok</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ShenZhen, China; June 2023 - Octo 2023</font>
 </div>
 
