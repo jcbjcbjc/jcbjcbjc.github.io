@@ -24,7 +24,7 @@ redirect_from:
 <!-- * In addition, as the person in charge, I once led a team to complete an industry project of the deployment of object detection and pose estimation models on arm chips, which perfectly meet the high FPS demands.  -->
 
 * Undergrad@[HUST](http://english.hust.edu.cn/) 
-* My primary research area is Machine Learning System. Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
+* My primary research interest is Systems & Compiler for Machine learning . Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
 * I am very fortunate to be advised by [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
 
 > please feel free to chat with me or drop me an email!
