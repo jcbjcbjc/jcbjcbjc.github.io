@@ -24,7 +24,7 @@ redirect_from:
 <!-- * In addition, as the person in charge, I once led a team to complete an industry project of the deployment of object detection and pose estimation models on arm chips, which perfectly meet the high FPS demands.  -->
 
 * Undergrad@[HUST](http://english.hust.edu.cn/) 
-* My primary research area is Machine Learning System. Nowadays I mainly worked on Cloud Systems for ML inference
+* My primary research area is Machine Learning System. Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
 * I am very fortunate to be advised by [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
 
 > please feel free to chat with me or drop me an email!
@@ -81,19 +81,17 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 </h2>
 
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">OS API</span> </a></h3>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">OS API Migration</span> </a></h3>
 </div>
 
 <div><a href="https://shenjiasi.com/group.html/" style="text-decoration: none;">HKUST Automated Reasoning and Transformation of Software Research Group</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; HongKong Augu. 2024 - Sept. 2024 </font>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; HongKong July 2024 - Aug. 2024 </font>
 </div>
 
 <!-- * Role: Research Intern  -->
 <!-- * Role: Role: Research Intern, **Second author**, paper already submitted to **xxxx'24**, Arxiv Available soon -->
 * Role: Research Intern
 * Advisor: [Jiasi Shen](https://shenjiasi.com/)
-* Profiled the bottleneck of current SOTA LLM Serving framework(e.g., vllm, ppl.llm).
-* Improve the GPU SM utilization to accelerate the serving throughput of LLMs
 <!-- * now coding for one project about acclerating the serving throughput of LLMs. -->
 
 <!-- 0 -->
@@ -106,10 +104,10 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 </div>
 
 <!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
-* Role: Research Intern
+* Role: Research Intern, **Core author**, paper planned for submission to **NSDI'25**
 * Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246) 
-* work on Fast Scaling Problem In Serverless GPU Inference
-* Introduce Model Parallel Execution Flow to make full use of "free" Resource with incomplete Model Data
+* Work on Fast Scaling Problem In Serverless GPU Inference Focusing on 0->N.
+* Introduce Model Parallel Execution Flow to make full use of "free" Resource with incomplete Model Data to increase throughput and reduce cold-start overhead.
 
 
 <!-- 1 -->
