@@ -81,7 +81,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 </h2>
 
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">OS API Migration</span> </a></h3>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">API Migration</span> </a></h3>
 </div>
 
 <div><a href="https://shenjiasi.com/group.html/" style="text-decoration: none;">HKUST Automated Reasoning and Transformation of Software Research Group</a>
