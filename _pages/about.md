@@ -81,6 +81,21 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 </h2>
 
 <div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
+</div>
+
+<div><a href="https://shenjiasi.com/group.html/" style="text-decoration: none;">UCSD Picasso Lab</a>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; UCSD Sept 2024 - unknown </font>
+</div>
+
+<!-- * Role: Research Intern  -->
+<!-- * Role: Role: Research Intern, **Second author**, paper already submitted to **xxxx'24**, Arxiv Available soon -->
+* Role: Research Intern
+* Advisor: [yufei ding](https://picassolab.squarespace.com/yufei),[yuke wang](https://www.wang-yuke.com/)
+<!-- * now coding for one project about acclerating the serving throughput of LLMs. -->
+
+
+<div class="section-text col-right">
 <h3><a href="#" style="text-decoration: none;"><span class="emph">API Migration</span> </a></h3>
 </div>
 
