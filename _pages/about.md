@@ -84,7 +84,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
 </div>
 
-<div><a href="https://shenjiasi.com/group.html/" style="text-decoration: none;">UCSD Picasso Lab</a>
+<div><a href="https://picassolab.squarespace.com/" style="text-decoration: none;">UCSD Picasso Lab</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; UCSD Sept 2024 - unknown </font>
 </div>
 
