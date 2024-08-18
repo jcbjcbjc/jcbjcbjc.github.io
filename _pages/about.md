@@ -125,6 +125,20 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 * Introduce Model Parallel Execution Flow to make full use of "free" Resource with incomplete Model Data to increase throughput and reduce cold-start overhead.
 
 
+<!-- 0 -->
+<div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">AI Compiler : use LLM to optimize tensor programs </span> </a></h3>
+</div>
+
+<div><a href="https://grid.hust.edu.cn/" style="text-decoration: none;">University of Leeds & HUST CGCL</a>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; WuHan Sept. 2023 - Nov. 2023 </font>
+</div>
+
+<!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
+* Role: Research Intern
+* Advisor: [zheng wang](https://zwang4.github.io/) [wanyao](http://wanyao.me/) 
+
+
 <!-- 1 -->
 <!--
 <div class="section-text col-right">
