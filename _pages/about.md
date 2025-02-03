@@ -55,12 +55,10 @@ redirect_from:
 </h2>
 
 
-<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
-</div>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3></div>
 <div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">submitted to sigcomm'25</a></div>
 <!-- Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
 (Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
--->
 
 
 <!--<div class="section-text col-right">
@@ -75,12 +73,16 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 (ICML 2024), Vienna, Austria, [Arxiv](https://arxiv.org/abs/2404.02015) available 
 -->
 
+<h2 class="col">
+<font color=black>Research Experiences</font>
+</h2>
+
 <!-- 0 -->
 <div class="section-text col-right">
 <h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 </div>
 
-<div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">CUHK,SZ</a>
+<div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">UVA & CUHK,SZ</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; ShenZhen January. 2024 - present </font>
 </div>
 
