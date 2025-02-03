@@ -12,7 +12,7 @@ redirect_from:
 
 
 <h2 class="col">
-<font color=blue>Biography</font>
+<font color=black>Biography</font>
 </h2>
 <!-- --- -->
 
@@ -25,7 +25,7 @@ redirect_from:
 
 * Undergrad@[HUST](http://english.hust.edu.cn/) 
 * My primary research interest is Systems & Compiler for Machine learning . Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
-* I am very fortunate to be advised by [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
+* I am very fortunate to be advised by [yue cheng](https://tddg.github.io/)(UVA), [wei wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
 
 > please feel free to chat with me or drop me an email!
 
@@ -39,7 +39,7 @@ redirect_from:
 <!-- * **Compiler:** Compiler Infra like LLVM, MLIR, Triton -->
 
 <h2 class="col">
-<font color=blue>Education</font>
+<font color=black>Education</font>
 </h2>
 ---
 
@@ -51,17 +51,16 @@ redirect_from:
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <h2 class="col">
-<font color=blue>Publications</font>
+<font color=black>Publications</font>
 </h2>
 
-<!--<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">WhiteFox: White-box Compiler Fuzzing via Large Language Models</span> </a></h3>
+
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 </div>
-<div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">Under Review, xxx/xxxx’24</a></div>
-Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
-(Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available
+<div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">submitted to sigcomm'25</a></div>
+<!-- Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
+(Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
 -->
-<!-- <br> -->
 
 
 <!--<div class="section-text col-right">
@@ -76,54 +75,19 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 (ICML 2024), Vienna, Austria, [Arxiv](https://arxiv.org/abs/2404.02015) available 
 -->
 
-<h2 class="col">
-<font color=blue>Academic Experiences</font>
-</h2>
-
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
-</div>
-
-<div><a href="https://picassolab.squarespace.com/" style="text-decoration: none;">UCSD Picasso Lab</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; UCSD Sept 2024 - unknown </font>
-</div>
-
-<!-- * Role: Research Intern  -->
-<!-- * Role: Role: Research Intern, **Second author**, paper already submitted to **xxxx'24**, Arxiv Available soon -->
-* Role: Research Intern
-* Advisor: [yufei ding](https://picassolab.squarespace.com/yufei),[yuke wang](https://www.wang-yuke.com/)
-<!-- * now coding for one project about acclerating the serving throughput of LLMs. -->
-
-
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">API Migration</span> </a></h3>
-</div>
-
-<div><a href="https://shenjiasi.com/group.html/" style="text-decoration: none;">HKUST Automated Reasoning and Transformation of Software Research Group</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; HongKong July 2024 - Aug. 2024 </font>
-</div>
-
-<!-- * Role: Research Intern  -->
-<!-- * Role: Role: Research Intern, **Second author**, paper already submitted to **xxxx'24**, Arxiv Available soon -->
-* Role: Research Intern
-* Advisor: [Jiasi Shen](https://shenjiasi.com/)
-<!-- * now coding for one project about acclerating the serving throughput of LLMs. -->
-
 <!-- 0 -->
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Fast Scaling In Serverless GPU Inference</span> </a></h3>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 </div>
 
-<div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">CUHK,SZ FCS Lab</a>
+<div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">CUHK,SZ</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; ShenZhen January. 2024 - present </font>
 </div>
 
 <!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
-* Role: Research Intern, **Core author**, paper planned for submission to **NSDI'25**
-* Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246) 
-* Work on Fast Scaling Problem In Serverless GPU Inference Focusing on 0->N.
-* Introduce Model Parallel Execution Flow to make full use of "free" Resource with incomplete Model Data to increase throughput and reduce cold-start overhead.
-
+* Role: Research Intern, **Core author**, paper submitted to **SigComm'25**
+* Advisor: [yue cheng](https://tddg.github.io/) [wei wang](https://www.cse.ust.hk/~weiwa/) [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246) 
+* Duties included:
 
 <!-- 0 -->
 <div class="section-text col-right">
@@ -160,7 +124,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 -->
 
 <h2 class="col">
-<font color=blue>Industrial Experiences</font>
+<font color=black>Industrial Experiences</font>
 </h2>
 
 <!-- 0 -->
@@ -264,7 +228,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <!-- ### to be completed  -->
 
 <h2 class="col">
-<font color=blue>Hobbies</font>
+<font color=black>Hobbies</font>
 </h2>
 
 <!-- * Football, crazy fan of Lionel Messi, [FC Barcelona](https://www.fcbarcelona.com/en/), and Argentina National Team.
