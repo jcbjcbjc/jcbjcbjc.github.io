@@ -55,7 +55,7 @@ redirect_from:
 </h2>
 
 
-<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3></div>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 <div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">submitted to sigcomm'25</a></div>
 <!-- Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
 (Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
