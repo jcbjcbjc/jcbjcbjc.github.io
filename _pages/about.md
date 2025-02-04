@@ -25,7 +25,7 @@ redirect_from:
 
 * Undergrad@[HUST](http://english.hust.edu.cn/) 
 * My primary research interest is Systems & Compiler for Machine learning . Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
-* I am very fortunate to be advised by [yue cheng](https://tddg.github.io/)(UVA), [wei wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
+* I am very fortunate to be advised by [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
 
 > please feel free to chat with me or drop me an email!
 
@@ -56,7 +56,7 @@ redirect_from:
 
 
 <h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
-<div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">submitted to sigcomm'25</a></div>
+<div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">Submitted to SigComm'25</a></div>
 <!-- Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
 (Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
 
@@ -79,16 +79,30 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 
 <!-- 0 -->
 <div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
+</div>
+
+<div><a href="https://grainger.illinois.edu/about/directory/faculty/fanlai" style="text-decoration: none;">UIUC</a>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; Febrary. 2025 - present </font>
+</div>
+
+<!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
+* Role: Research Intern
+* Advisor: [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai)
+* Duties included:
+
+<!-- 0 -->
+<div class="section-text col-right">
 <h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 </div>
 
 <div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">UVA & CUHK,SZ</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; ShenZhen January. 2024 - present </font>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; China January. 2024 - Febrary. 2025 </font>
 </div>
 
 <!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
 * Role: Research Intern, **Core author**, paper submitted to **SigComm'25**
-* Advisor: [yue cheng](https://tddg.github.io/) [wei wang](https://www.cse.ust.hk/~weiwa/) [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246) 
+* Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)  [Yue Cheng](https://tddg.github.io/) [Wei Wang](https://www.cse.ust.hk/~weiwa/) 
 * Duties included:
 
 <!-- 0 -->
