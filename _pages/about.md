@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chaobo Jia"
+title: "Chaobo Jia’s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -56,8 +56,11 @@ redirect_from:
 
 
 <h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
+Submitted to SigComm'25
+
+<!--
 <div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">Submitted to SigComm'25</a></div>
-<!-- Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
+Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
 (Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
 
 
@@ -82,7 +85,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
 </div>
 
-<div><a href="https://grainger.illinois.edu/about/directory/faculty/fanlai" style="text-decoration: none;">UIUC</a>
+<div><a href="https://illinois.edu/" style="text-decoration: none;">UIUC</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; Febrary. 2025 - present </font>
 </div>
 
@@ -96,7 +99,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 <h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
 </div>
 
-<div><a href="https://sds.cuhk.edu.cn/en/teacher/1246" style="text-decoration: none;">UVA & CUHK,SZ</a>
+<div><a href="https://www.virginia.edu/" style="text-decoration: none;">UVA & CUHK,SZ</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; China January. 2024 - Febrary. 2025 </font>
 </div>
 
@@ -107,7 +110,12 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 
 <!-- 0 -->
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">AI Compiler : use LLM to optimize tensor programs </span> </a></h3>
+<h3>
+  <span class="emph" style="color: black;">
+    AI Compiler : use LLM to optimize tensor programs
+  </span>
+</h3>
+<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">AI Compiler : use LLM to optimize tensor programs </span> </a></h3> -->
 </div>
 
 <div><a href="https://grid.hust.edu.cn/" style="text-decoration: none;">University of Leeds & HUST CGCL</a>
@@ -145,7 +153,12 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 
 <!-- 0 -->
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Optimize Network Stack time latency in Cryptocurrency Transaction Chain </span></a></h3>
+<h3>
+  <span class="emph" style="color: black;">
+    Optimize Network Stack time latency in Cryptocurrency Transaction Chain
+  </span>
+</h3>
+<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">Optimize Network Stack time latency in Cryptocurrency Transaction Chain </span></a></h3> -->
 </div>
 
 <div><a href="https://hpc-ai.com/" style="text-decoration: none;">@CryFin-Tech Company</a>
@@ -162,7 +175,12 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 
 <!-- 1 -->
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">BaseDao : Multifunctional DataBase Transaction Component </span></a></h3>
+<h3>
+  <span class="emph" style="color: black;">
+    BaseDao : Multifunctional DataBase Transaction Component
+  </span>
+</h3>
+<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">BaseDao : Multifunctional DataBase Transaction Component </span></a></h3> -->
 </div>
 
 <div><a href="https://www.bytedance.com/en/" style="text-decoration: none;">@ByteDance TikTok</a>
