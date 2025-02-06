@@ -103,7 +103,7 @@ redirect_from:
 <tbody>
 <tr>
   <td class="section-image-extreme">
-    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme">
+    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="150" height="150">
   </td>
 
   <td class="section-content">
@@ -120,7 +120,7 @@ redirect_from:
 </tr>
 <tr>
   <td class="section-image-small">
-    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small">
+    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="150" height="150">
   </td>
 
   <td class="section-content">
@@ -139,7 +139,7 @@ redirect_from:
 </tr>
 <tr>
   <td class="section-image-small">
-    <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small">
+    <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
   </td>
 
   <td class="section-content">
