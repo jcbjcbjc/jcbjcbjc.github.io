@@ -69,6 +69,24 @@ td, th {
 * <b>SW-HW Co-design</b>: The way how hardware, software, compiler, and data interact with each other to get optimized in specified tasks. ML tasks get either specifically or generally optimzied on emerging hardware.
 
 
+<h2 class="col">
+<font color=black>News</font>
+</h2>
+
+<table class="content-table">
+  <tbody>
+    <tr>
+      <td style="padding:10px 10px;width:100%;vertical-align:middle;text-align:justify">
+        <p style="margin-left: 5%; text-align:left">
+          <!-- <strong>[9/2024]</strong> &#x1F389; I am in PyTorch Dev Conference 2024, see you in San Francisco!
+          <br> -->
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <h2 class="col">
 <font color=black>Publications</font>
