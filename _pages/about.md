@@ -88,7 +88,7 @@ td, th {
       </td>
       <td width="75%" valign="middle">
         <!-- tips -->
-        <p><em>| Tips: I am the main contributor, some details are in the Author Contributions below</em></p>
+        <p><em>| Tips: I am the <b>main contributor</b>, some details are in the <b>Author Contributions</b> below</em></p>
         <!-- heading -->
         <papertitle><b>FaaScale: Unlocking Fast Model Scaling for Serverless Inference</b></papertitle>
         <!-- authors -->
@@ -130,6 +130,7 @@ td, th {
           <b>University of Illinois Urbana-Champaign</b>,Urbana-Champaign, Illinois, USA
           <br>
           Research Intern
+          <br>
           Advisor: <a
             href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
           <br>
@@ -146,6 +147,7 @@ td, th {
           <b>University of Virginia & CUHK</b>, Hong Kong, China
           <br>
           Research Intern
+          <br>
           Advisor: <a
             href="https://sds.cuhk.edu.cn/en/teacher/1246">Minchen Yu</a>, <a
             href="https://tddg.github.io/">Yue Cheng</a>, <a
