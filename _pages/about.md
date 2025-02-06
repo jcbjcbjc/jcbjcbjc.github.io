@@ -83,7 +83,7 @@ td, th {
 <table class="content-table">
   <tbody>
     <tr>
-      <td style="padding:10px 20px;width:25%;vertical-align:middle">
+      <td style="padding:1px 2px;width:25%;vertical-align:middle">
         <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
       </td>
       <td width="75%" valign="middle">
