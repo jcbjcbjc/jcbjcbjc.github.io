@@ -42,8 +42,7 @@ redirect_from:
 <font color=black>Education</font>
 </h2>
 ---
-
-* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Software Engineering 2021.9-2025.6
+* B.S., Software Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2021.9-2025.6
 
 <!-- * Looking for chances of Summer research experience in US or Singpore -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
@@ -61,23 +60,20 @@ td, th {
 }
 </style>
 
+
+<h2 class="col">
+<font color=black>Research Interests</font>
+</h2>
+
+* Efficient and low-cost model serving systems 
+* <b>SW-HW Co-design</b>: The way how hardware, software, compiler, and data interact with each other to get optimized in specified tasks. ML tasks get either specifically or generally optimzied on emerging hardware.
+
+
+
 <h2 class="col">
 <font color=black>Publications</font>
 </h2>
 
-
-
-
-<!-- Publications -->
-<!-- <table class="section-table">
-  <tbody>
-    <tr>
-      <td class="section-heading">
-        Publications
-      </td>
-    </tr>
-  </tbody>
-</table> -->
 
 <!-- style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;" -->
 <table class="content-table">
