@@ -120,59 +120,57 @@ td, th {
 </h2>
 
 <table class="content-table">
-<tbody>
-<tr>
-  <td class="section-image-extreme">
-    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50">
-  </td>
-
-  <td class="section-content">
-    <div class="section-title">
-      <b>University of Illinois Urbana-Champaign</b>,Urbana-Champaign, Illinois, USA
-      <br>
-      Research Intern
-      Advisor: <a
-        href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
-      <br>
-      Feb 2025 ~ Present
-    </div>
-  </td>
-</tr>
-<tr>
-  <td class="section-image-small">
-    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="50" height="50">
-  </td>
-
-  <td class="section-content">
-    <div class="section-title">
-      <b>University of Virginia & CUHK</b>, Hong Kong, China
-      <br>
-      Research Intern
-      Advisor: <a
-        href="https://sds.cuhk.edu.cn/en/teacher/1246">Minchen Yu</a>, <a
-        href="https://tddg.github.io/">Yue Cheng</a>, <a
-        href="https://www.cse.ust.hk/~weiwa/">Wei Wang</a>
-      <br>
-      March 2024 ~ Feb 2025
-    </div>
-  </td>
-</tr>
-<tr>
-  <td class="section-image-small">
-    <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
-  </td>
-
-  <td class="section-content">
-    <div class="section-title">
-      <b>ByteDance TikTok</b>, Beijing, China
-      <br>
-      Software Engineering Intern
-      <br>
-      Jun 2023 ~ Oct 2023
-    </div>
-  </td>
-</tr>
-
+  <tbody>
+    <tr>
+      <td class="section-image-extreme">
+        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50">
+      </td>
+      <td class="section-content">
+        <div class="section-title">
+          <b>University of Illinois Urbana-Champaign</b>,Urbana-Champaign, Illinois, USA
+          <br>
+          Research Intern
+          Advisor: <a
+            href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
+          <br>
+          Feb 2025 ~ Present
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td class="section-image-small">
+        <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="50" height="50">
+      </td>
+      <td class="section-content">
+        <div class="section-title">
+          <b>University of Virginia & CUHK</b>, Hong Kong, China
+          <br>
+          Research Intern
+          Advisor: <a
+            href="https://sds.cuhk.edu.cn/en/teacher/1246">Minchen Yu</a>, <a
+            href="https://tddg.github.io/">Yue Cheng</a>, <a
+            href="https://www.cse.ust.hk/~weiwa/">Wei Wang</a>
+          <br>
+          March 2024 ~ Feb 2025
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td class="section-image-small">
+        <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
+      </td>
+      <td class="section-content">
+        <div class="section-title">
+          <b>ByteDance TikTok</b>, Beijing, China
+          <br>
+          Software Engineering Intern
+          <br>
+          Jun 2023 ~ Oct 2023
+        </div>
+      </td>
+    </tr>
+  <tbody>
+</table>
 
 
 <h2 class="col">
