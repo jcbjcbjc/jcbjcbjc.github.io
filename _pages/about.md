@@ -77,7 +77,7 @@ redirect_from:
         <!-- tips -->
         <p><em>| Tips: I am the main contributor, some details are in the Author Contributions below</em></p>
         <!-- heading -->
-        <papertitle>FaaScale: Unlocking Fast Model Scaling for Serverless Inference</papertitle>
+        <papertitle><b>FaaScale: Unlocking Fast Model Scaling for Serverless Inference</b></papertitle>
         <!-- authors -->
         <br>
         <!-- conference & date -->
@@ -103,7 +103,7 @@ redirect_from:
 <tbody>
 <tr>
   <td class="section-image-extreme">
-    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="150" height="150">
+    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50">
   </td>
 
   <td class="section-content">
@@ -120,7 +120,7 @@ redirect_from:
 </tr>
 <tr>
   <td class="section-image-small">
-    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="150" height="150">
+    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="50" height="50">
   </td>
 
   <td class="section-content">
