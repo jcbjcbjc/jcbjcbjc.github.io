@@ -55,8 +55,45 @@ redirect_from:
 </h2>
 
 
-<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
-Submitted to SigComm'25
+
+
+<!-- Publications -->
+<!-- <table class="section-table">
+  <tbody>
+    <tr>
+      <td class="section-heading">
+        Publications
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+<table class="content-table">
+  <tbody>
+    <tr>
+      <td style="padding:10px 20px;width:25%;vertical-align:middle">
+        <img src="images/publications/faascale.png" class="pub-image" height="150">
+      </td>
+      <td width="75%" valign="middle">
+        <!-- tips -->
+        <p><em>| Tips: I am the main contributor, some details are in the Author Contributions below</em></p>
+        <!-- heading -->
+        <papertitle>FaaScale: Unlocking Fast Model Scaling for Serverless Inference</papertitle>
+        <!-- authors -->
+        <br>
+        <!-- conference & date -->
+        <br>
+        <em>(Submitted to SIGCOMM'25)</em>, 2025
+        <br>
+        <!-- links -->
+        <a href="">Author Contributions</a>
+        / <a href="">code</a>
+        / <a href="">arXiv</a>
+        / <a href="">Poster</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <!--
 <div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">Submitted to SigComm'25</a></div>
@@ -76,190 +113,70 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 (ICML 2024), Vienna, Austria, [Arxiv](https://arxiv.org/abs/2404.02015) available 
 -->
 
-<h2 class="col">
-<font color=black>Research Experiences</font>
-</h2>
+<!-- Experiences -->
+<table class="section-table">
+<tbody>
+<tr>
+  <td class="section-heading">
+    Experience
+  </td>
+</tr>
+</tbody>
+</table>
 
-<!-- 0 -->
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">MLsys</span> </a></h3>
-</div>
+<table class="content-table">
+<tbody>
+<tr>
+  <td class="section-image-extreme">
+    <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme">
+  </td>
 
-<div><a href="https://illinois.edu/" style="text-decoration: none;">UIUC</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; Febrary. 2025 - present </font>
-</div>
+  <td class="section-content">
+    <div class="section-title">
+      <b>University of Illinois Urbana-Champaign</b>,Urbana-Champaign, Illinois, USA
+      <br>
+      Research Intern
+      Advisor: <a
+        href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
+      <br>
+      Feb 2025 ~ Present
+    </div>
+  </td>
+</tr>
+<tr>
+  <td class="section-image-small">
+    <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small">
+  </td>
 
-<!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
-* Role: Research Intern
-* Advisor: [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai)
-* Duties included:
+  <td class="section-content">
+    <div class="section-title">
+      <b>University of Virginia & CUHK</b>, Hong Kong, China
+      <br>
+      Research Intern
+      Advisor: <a
+        href="https://sds.cuhk.edu.cn/en/teacher/1246">Minchen Yu</a>, <a
+        href="https://tddg.github.io/">Yue Cheng</a>, <a
+        href="https://www.cse.ust.hk/~weiwa/">Wei Wang</a>
+      <br>
+      March 2024 ~ Feb 2025
+    </div>
+  </td>
+</tr>
+<tr>
+  <td class="section-image-small">
+    <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small">
+  </td>
 
-<!-- 0 -->
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">FaaScale: Unlocking Fast Model Scaling for Serverless Inference</span> </a></h3>
-</div>
-
-<div><a href="https://www.virginia.edu/" style="text-decoration: none;">UVA & CUHK,SZ</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; China January. 2024 - Febrary. 2025 </font>
-</div>
-
-<!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
-* Role: Research Intern, **Core author**, paper submitted to **SigComm'25**
-* Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)  [Yue Cheng](https://tddg.github.io/) [Wei Wang](https://www.cse.ust.hk/~weiwa/) 
-* Duties included:
-
-<!-- 0 -->
-<div class="section-text col-right">
-<h3>
-  <span class="emph" style="color: black;">
-    AI Compiler : use LLM to optimize tensor programs
-  </span>
-</h3>
-<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">AI Compiler : use LLM to optimize tensor programs </span> </a></h3> -->
-</div>
-
-<div><a href="https://grid.hust.edu.cn/" style="text-decoration: none;">University of Leeds & HUST CGCL</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp; &emsp; &emsp; &emsp;&emsp; &emsp; WuHan Sept. 2023 - Nov. 2023 </font>
-</div>
-
-<!-- * Role: Role: Research Intern, **Third author**, paper already submitted to **xxxx'24**, Arxiv Available in this [link](https://arxiv.org/abs/2310.15991) -->
-* Role: Research Intern
-* Advisor: [zheng wang](https://zwang4.github.io/) [wanyao](http://wanyao.me/) 
-
-
-<!-- 1 -->
-<!--
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Efficient</span>  Dynamic Graph Reconstruction with PagedMapping</a></h3>
-</div>
-
-<div><a href="http://grid.hust.edu.cn/" style="text-decoration: none;">HUST CGCL</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; WuHan, China; Oct. 2022 - June. 2023 </font>
-</div>
-
-<!-- * Role: Research Intern, **Co-first author**, paper is submitted to **xxxx'24** -->
-<!--
-* Role: Research Intern
-* Mentor: [Hongru Gao](https://github.com/hongrugao) 
-* Advisor: [Zhiyuan Shao](https://www.researchgate.net/profile/Zhiyuan-Shao), [Hai Jin](https://scholar.google.ca/citations?user=o02W0aEAAAAJ&hl=en)
-* Duties included: Based on the the memory bound of graph processing SOTA algorithm, a more efficient dynamic-graph-friendly data storage format is proposed, which involves modifications to the page table operating system kernel(Linux).
-* Remap the PageTable of OS Kernel to accelerate the dynamic graph processing system.
-* Speed up existing SOTA algorithms by more than 10x times.
--->
-
-<h2 class="col">
-<font color=black>Industrial Experiences</font>
-</h2>
-
-<!-- 0 -->
-<div class="section-text col-right">
-<h3>
-  <span class="emph" style="color: black;">
-    Optimize Network Stack time latency in Cryptocurrency Transaction Chain
-  </span>
-</h3>
-<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">Optimize Network Stack time latency in Cryptocurrency Transaction Chain </span></a></h3> -->
-</div>
-
-<div><a href="https://hpc-ai.com/" style="text-decoration: none;">@CryFin-Tech Company</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ShangHai, China; Sept 2023 - Dece 2023</font>
-</div>
-
-* Project: [tungstenite-rs](https://github.com/snapview/tungstenite-rs), [rustls](https://github.com/rustls/rustls)
-* Role: Core Developer
-* Duties included: Core InferenceEngine Developer, some examples I built:
-  * Developing a high performance ws protocol library tungstenite-rs-fast
-  * Refactoring the high-performance openssl protocol library rustls and getting it into production.
-  * Improving Multi-Node Data Synchronization Performance with RDMA
-  * Development of a high-performance base library, including high-performance hashTable, mpmc synchronization and other components specialized for specific scenarios.
-
-<!-- 1 -->
-<div class="section-text col-right">
-<h3>
-  <span class="emph" style="color: black;">
-    BaseDao : Multifunctional DataBase Transaction Component
-  </span>
-</h3>
-<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">BaseDao : Multifunctional DataBase Transaction Component </span></a></h3> -->
-</div>
-
-<div><a href="https://www.bytedance.com/en/" style="text-decoration: none;">@ByteDance TikTok</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BeiJing, China; June 2023 - Octo 2023</font>
-</div>
-
-* Project: close source project
-* Role: Intern
-* Mentor: Liangjie Zhang
-* Duties included: Complete BaseDao : Multifunctional DataBase Transaction Component
-  * secondary development based on gorm
-  * support Shadow Table In DataBase Operation
-  * Integrated version support
-  * Support for distributed nested transactions
-  * Mq Support for Data Model
-
-<!--
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Develop High</span> Performance Neural Network Inference Engine</a></h3>
-</div>
-
-<!-- 2 -->
-<!--
-<div><a href="https://www.tencent.com/en-us/" style="text-decoration: none;">@Tencent Company</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&nbsp;&emsp; &emsp;&emsp;&nbsp;&emsp; &emsp;&emsp;ShenZhen, China; June 2022 - Nov. 2022 </font>
-</div>
-
-* Project: [ncnn](https://github.com/Tencent/ncnn), an open source project with **18k+** stars in Github
-* Role: Top15 committer(util `Nov.2022`) of 269 committers in total
-* Mentor: [nihui](https://github.com/nihui)(*with Github **6k** followers*), and she's cute :)
-* Duties included: Write and Optimize(such as SIMD) operators for ncnn, mainly aligned with pytorch, some examples I built:
-  * [GridSample](https://github.com/Tencent/ncnn/pull/4288): Given an input and a flow-field grid, computes the output using input values and pixel locations from grid.
-      * To be noted, the PNNX of ncnn, a new `PyTorch Neural Network eXchange`, draw on the design concept of `MLIR`
-  * [GELU](https://github.com/Tencent/ncnn/pull/4144): Implement `sse/avx/avx512` version of gelu, with a fast version of `erfc`.
-
-<!-- 3 -->
-<!-- <div class="section-text col-right"> -->
-<!-- <h3><a href="#" style="text-decoration: none;"><span class="emph">Deploy</span> High-FPS AI Models on Arm Chips</a></h3> -->
-<!-- </div> -->
-<!--  -->
-<!-- <div><a href="https://en.fiberhome.com/" style="text-decoration: none;"> @FiberHome Telecommunication Company</a> -->
-<!-- <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; WuHan, China; April 2021 - June.2021</font> -->
-<!-- </div> -->
-<!--  -->
-<!-- > Establish a team of 7 undergraduate, 1 postgraduate in total for This Project. -->
-<!--  -->
-<!-- * Role: **Leader** @ [Dian.AI](https://dian.org.cn/) -->
-<!-- * Mentor: [Yayu Gao](https://scholar.google.com.hk/citations?user=o42amRcAAAAJ) -->
-<!-- * Mentor of AI Group: [Xinggang Wang](https://scholar.google.com/citations?user=qNCTLV0AAAAJ&hl=en) -->
-<!-- * Duties included: As the project leader  -->
-  <!-- - Arm CPU/20FPS/ Snapdragon 870 -->
-  <!-- - YOLOX/Lite-HRNet -->
-  <!-- - pattern match algorithm/Hungarian Algorithm -->
-
-<!-- 2
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Explore</span> Backdoor Attack on Transformer Models</a></h3>
-</div>
-
-<div><a href="https://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm" style="text-decoration: none;">John Hopcroft Lab for Data Science</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; WuHan, China; April. 2022 - Augu.2023 </font>
-</div>
-
-* Role: Research Intern
-* Mentor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)
-* Duties included:  Research the model security of classic classification models such as ViT and DeiT, with a focus on black-box attacks. -->
-
-<!-- <h2 class="col">
-<font color=blue>Honors</font>
-</h2>
-
-* Tencent Scholarship (2023)
-* Huawei "Intelligent Base" Scholarship (2022)
-
-* Science and Technology Innovation Scholarship(2022), School of Computer Science and Technology, HUST
-* Academic Excellence Scholarship(2021), School of Computer Science and Technology, HUST
-* Academic Excellence Scholarship(2020), School of Computer Science and Technology, HUST -->
-
-<!-- ### to be completed  -->
+  <td class="section-content">
+    <div class="section-title">
+      <b>ByteDance TikTok</b>, Beijing, China
+      <br>
+      Software Engineering Intern
+      <br>
+      Jun 2023 ~ Oct 2023
+    </div>
+  </td>
+</tr>
 
 <h2 class="col">
 <font color=black>Hobbies</font>
