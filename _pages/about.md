@@ -50,6 +50,17 @@ redirect_from:
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
+<style>
+table {
+    border-collapse: collapse;
+    border: none;
+}
+
+td, th {
+    border: none;
+}
+</style>
+
 <h2 class="col">
 <font color=black>Publications</font>
 </h2>
@@ -67,7 +78,9 @@ redirect_from:
     </tr>
   </tbody>
 </table> -->
-<table class="content-table" style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;">
+
+<!-- style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;" -->
+<table class="content-table">
   <tbody>
     <tr>
       <td style="padding:10px 20px;width:25%;vertical-align:middle">
@@ -95,30 +108,14 @@ redirect_from:
 </table>
 
 
-<h2 class="col">
-<font color=black>Experiences</font>
-</h2>
-
-<style>
-table {
-    border-collapse: collapse;
-    border: none;
-}
-
-td, th {
-    border: none;
-}
-</style>
-
-|  |  |
+<!-- |  |  |
 |-----|------|
 | ![UIUC](images/Experience/uiuc.png) | **University of Illinois Urbana-Champaign**, Urbana-Champaign, Illinois, USA <br> Research Intern <br> Advisor: [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai) <br> Feb 2025 ~ Present |
 | ![UVA](images/Experience/uva.png) | **University of Virginia & CUHK**, Hong Kong, China <br> Research Intern <br> Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246), [Yue Cheng](https://tddg.github.io/), [Wei Wang](https://www.cse.ust.hk/~weiwa/) <br> March 2024 ~ Feb 2025 |
-| ![ByteDance](images/Experience/bytedance.png) | **ByteDance TikTok**, Beijing, China <br> Software Engineering Intern <br> Jun 2023 ~ Oct 2023 |
+| ![ByteDance](images/Experience/bytedance.png) | **ByteDance TikTok**, Beijing, China <br> Software Engineering Intern <br> Jun 2023 ~ Oct 2023 | -->
 
 
-
-<!-- <h2 class="col">
+<h2 class="col">
 <font color=black>Experiences</font>
 </h2>
 
@@ -174,7 +171,7 @@ td, th {
       Jun 2023 ~ Oct 2023
     </div>
   </td>
-</tr> -->
+</tr>
 
 
 
