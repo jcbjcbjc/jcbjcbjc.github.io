@@ -169,7 +169,7 @@ td, th {
         </div>
       </td>
     </tr>
-  <tbody>
+  </tbody>
 </table>
 
 
