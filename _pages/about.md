@@ -67,11 +67,11 @@ redirect_from:
     </tr>
   </tbody>
 </table> -->
-<table class="content-table">
+<table class="content-table" style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;">
   <tbody>
     <tr>
       <td style="padding:10px 20px;width:25%;vertical-align:middle">
-        <img src="images/publications/faascale.png" class="pub-image" height="150">
+        <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
       </td>
       <td width="75%" valign="middle">
         <!-- tips -->
@@ -94,35 +94,6 @@ redirect_from:
   </tbody>
 </table>
 
-
-<!--
-<div><a href="https://arxiv.org/abs/2310.15991" style="text-decoration: none;">Submitted to SigComm'25</a></div>
-Authors: Chenyuan Yang, Yinlin Deng, **Runyu Lu**, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang  
-(Preprint), Oct 2023, [Arxiv](https://arxiv.org/abs/2310.15991) available -->
-
-
-<!--<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving</span> </a></h3>
-</div>
-<!-- <div><a href="https://arxiv.org/abs/2404.02015" style="text-decoration: none;">Under Review, xxx/xxxx’24</a></div> -->
-<!--
-Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang, Dahua Lin, Ion Stoica, Hao Zhang
-<br>
-*The 41st International Conference on Machine Learning (system track)* 
-<br>
-(ICML 2024), Vienna, Austria, [Arxiv](https://arxiv.org/abs/2404.02015) available 
--->
-
-<!-- Experiences -->
-<!-- <table class="section-table">
-<tbody>
-<tr>
-  <td class="section-heading">
-    Experience
-  </td>
-</tr>
-</tbody>
-</table> -->
 
 <h2 class="col">
 <font color=black>Experiences</font>
@@ -181,6 +152,8 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
     </div>
   </td>
 </tr>
+
+
 
 <h2 class="col">
 <font color=black>Hobbies</font>
