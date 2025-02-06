@@ -99,6 +99,29 @@ redirect_from:
 <font color=black>Experiences</font>
 </h2>
 
+<style>
+table {
+    border-collapse: collapse;
+    border: none;
+}
+
+td, th {
+    border: none;
+}
+</style>
+
+|  |  |
+|-----|------|
+| ![UIUC](images/Experience/uiuc.png) | **University of Illinois Urbana-Champaign**, Urbana-Champaign, Illinois, USA <br> Research Intern <br> Advisor: [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai) <br> Feb 2025 ~ Present |
+| ![UVA](images/Experience/uva.png) | **University of Virginia & CUHK**, Hong Kong, China <br> Research Intern <br> Advisor: [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246), [Yue Cheng](https://tddg.github.io/), [Wei Wang](https://www.cse.ust.hk/~weiwa/) <br> March 2024 ~ Feb 2025 |
+| ![ByteDance](images/Experience/bytedance.png) | **ByteDance TikTok**, Beijing, China <br> Software Engineering Intern <br> Jun 2023 ~ Oct 2023 |
+
+
+
+<!-- <h2 class="col">
+<font color=black>Experiences</font>
+</h2>
+
 <table class="content-table">
 <tbody>
 <tr>
@@ -151,7 +174,7 @@ redirect_from:
       Jun 2023 ~ Oct 2023
     </div>
   </td>
-</tr>
+</tr> -->
 
 
 
