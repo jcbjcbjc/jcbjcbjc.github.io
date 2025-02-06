@@ -114,7 +114,7 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
 -->
 
 <!-- Experiences -->
-<table class="section-table">
+<!-- <table class="section-table">
 <tbody>
 <tr>
   <td class="section-heading">
@@ -122,7 +122,11 @@ Authors: Jiangfei Duan, **Runyu Lu**, Haojie Duanmu, Xiuhong Li, Xingcheng Zhang
   </td>
 </tr>
 </tbody>
-</table>
+</table> -->
+
+<h2 class="col">
+<font color=black>Experiences</font>
+</h2>
 
 <table class="content-table">
 <tbody>
