@@ -117,7 +117,7 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-extreme">
-        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50" margin-left=auto margin-right="20">
+        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="75" height="75">
       </td>
       <td class="section-content">
         <div class="section-title">
@@ -134,7 +134,7 @@ td, th {
     </tr>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="50" height="50">
+        <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="75" height="75">
       </td>
       <td class="section-content">
         <div class="section-title">
