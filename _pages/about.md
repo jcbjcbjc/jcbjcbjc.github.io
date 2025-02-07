@@ -64,8 +64,8 @@ td, th {
     <tr>
       <td style="padding:10px 10px;width:100%;vertical-align:middle;text-align:justify">
         <p style="margin-left: 5%; text-align:left">
-          <!-- <strong>[9/2024]</strong> &#x1F389; I am in PyTorch Dev Conference 2024, see you in San Francisco!
-          <br> -->
+          <strong>[6/2025]</strong> &#x1F389; I will receive my B.Eng. degree from HUST.
+          <br>
         </p>
       </td>
     </tr>
