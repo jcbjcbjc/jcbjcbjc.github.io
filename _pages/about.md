@@ -117,7 +117,7 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-extreme">
-        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50">
+        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="50" height="50" margin-left=auto margin-right="20">
       </td>
       <td class="section-content">
         <div class="section-title">
