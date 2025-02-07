@@ -12,31 +12,17 @@ redirect_from:
 
 
 <h2 class="col">
-<font color=black>Biography</font>
+<font color=black>About Me</font>
 </h2>
 <!-- --- -->
 
-<!-- * 20 years old, fourth-year Undergraduate@[HUST](http://english.hust.edu.cn/) -> PhD@UMich(Ang Chen&Mosharaf Chowdhury) -->
-<!-- * the elite program in the Department of Computer Science & Technology, with **GPA 3.95, rank 4th** -->
-<!-- * Intern@[UIUC](http://lingming.cs.illinois.edu/index.html), about llvm fuzzing, with the guidance of Chenyuan Yang@UIUC, Lingming Zhang@UIUC -->
-<!-- * Intern@[UCSD](https://people.eecs.berkeley.edu/~hao/), about LLM Serving, under the guidance of Jiangfei Duan@CUHK, Hao Zhang@UCSD -->
-<!-- * I have optimized the LLVM Backend for [SenseTime](https://www.sensetime.com/)(GPU Compiler Optimization), written many high-performance neural networks operators for [Tencent](https://github.com/Tencent/ncnn) company(Inference Engine), I also have made some contributions to open source projects of [Microsoft](https://github.com/microsoft/AI-System), [Meituan](https://github.com/meituan/YOLOv6), and [Megvii](https://github.com/MegEngine/MegCC).  -->
-<!-- * In addition, as the person in charge, I once led a team to complete an industry project of the deployment of object detection and pose estimation models on arm chips, which perfectly meet the high FPS demands.  -->
+I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+<br>
+I am very fortunate to be advised by [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST) in my undergrad Research.
+<br>
+During my career, I am fortunate to work and intern at ByteDance
 
-* Undergrad@[HUST](http://english.hust.edu.cn/) 
-* My primary research interest is Systems & Compiler for Machine learning . Nowadays I mainly work on LLM Training & Cloud Systems for ML inference
-* I am very fortunate to be advised by [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST)
-
-> please feel free to chat with me or drop me an email!
-
-<!-- <h2 class="col"> -->
-<!-- <font color=blue>Skills</font> -->
-<!-- </h2> -->
-<!-- --- -->
-<!--  -->
-<!-- * **AI:** LLM/CV Model Deployment -->
-<!-- * **HPC:** CUDA, Intel SSE, Arm NEON, Assembly, Async Programming -->
-<!-- * **Compiler:** Compiler Infra like LLVM, MLIR, Triton -->
+<!-- > please feel free to chat with me or drop me an email! -->
 
 <h2 class="col">
 <font color=black>Education</font>
