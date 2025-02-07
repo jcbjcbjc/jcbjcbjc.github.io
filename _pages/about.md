@@ -17,10 +17,10 @@ redirect_from:
 <!-- --- -->
 
 I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
-<br>
+
 I am very fortunate to be advised by [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) and [Yao Wan](https://wanyao.me/)(HUST) in my undergrad Research.
-<br>
-During my career, I am fortunate to work and intern at ByteDance
+
+During my career, I am fortunate to work and intern at ByteDance.
 
 <!-- > please feel free to chat with me or drop me an email! -->
 
