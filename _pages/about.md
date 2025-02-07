@@ -53,7 +53,7 @@ td, th {
 </h2>
 
 * <b>Efficient and low-cost model serving systems</b>
-* <b>SW-HW Co-design</b>: The way how hardware, software, compiler, and data interact with each other to get optimized in specified tasks. ML tasks get either specifically or generally optimzied on emerging hardware.
+* <b>SW-HW Co-design</b>
 
 <h2 class="col">
 <font color=black>News</font>
