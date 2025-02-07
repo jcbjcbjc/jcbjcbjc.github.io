@@ -53,6 +53,7 @@ redirect_from:
 table {
     border-collapse: collapse;
     border: none;
+    font-size: 8px;
 }
 
 td, th {
