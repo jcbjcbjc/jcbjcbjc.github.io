@@ -117,7 +117,7 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-extreme">
-        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="75" height="75">
+        <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="70" height="70">
       </td>
       <td class="section-content">
         <div class="section-title">
@@ -134,7 +134,7 @@ td, th {
     </tr>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="75" height="75">
+        <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="70" height="70">
       </td>
       <td class="section-content">
         <div class="section-title">
@@ -168,10 +168,10 @@ td, th {
   </tbody>
 </table>
 
+<h2 class="col">
+<font color=black>Selected Honors</font>
+</h2>
 
 <h2 class="col">
 <font color=black>Hobbies</font>
 </h2>
-
-* Football, crazy fan of Lionel Messi, [FC Barcelona](https://www.fcbarcelona.com/en/), and Argentina National Team.
-* F1, crazy fan of Charles Leclerc(racing in Formula One for Scuderia Ferrari), Guanyu Zhou(a Chinese racing driver who currently competes in Formula One for Stake F1 Team Kick Sauber).
