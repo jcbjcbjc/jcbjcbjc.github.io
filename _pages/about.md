@@ -95,12 +95,12 @@ td, th {
         <br>
         <!-- conference & date -->
         <br>
-        <em>(Submitted to SIGCOMM'25)</em>, 2025
+        <em>(Under Review in SIGCOMM'25    <a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
         <br>
         <!-- links -->
         <a href="">Author Contributions</a>
         / <a href="">code</a>
-        / <a href="">arXiv</a>
+        / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
         / <a href="">Poster</a>
       </td>
     </tr>
