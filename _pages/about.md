@@ -95,7 +95,7 @@ td, th {
         <br>
         <!-- conference & date -->
         <br>
-        <em>(Under Review in SIGCOMM'25    <a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
+        <em>(  <a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
         <br>
         <!-- links -->
         <a href="files/supporting-letter.pdf">Author Contributions</a>
