@@ -88,9 +88,9 @@ td, th {
       </td>
       <td width="75%" valign="middle">
         <!-- tips -->
-        <p><em>| Tips: I am the <b>main contributor</b>, some details are in the <b>Author Contributions</b> below</em></p>
+        <p><em>| Tips: I am the <b>major contributor</b>, some details are in the <b>Author Contributions</b> below</em></p>
         <!-- heading -->
-        <papertitle><b>FaaScale: Unlocking Fast Model Scaling for Serverless Inference</b></papertitle>
+        <papertitle><b> $\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
         <br>
         <!-- conference & date -->
@@ -98,7 +98,7 @@ td, th {
         <em>(Under Review in SIGCOMM'25    <a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
         <br>
         <!-- links -->
-        <a href="">Author Contributions</a>
+        <a href="files/supporting-letter.pdf">Author Contributions</a>
         / <a href="">code</a>
         / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
         / <a href="">Poster</a>
