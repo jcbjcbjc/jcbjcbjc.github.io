@@ -90,7 +90,7 @@ td, th {
         <!-- tips -->
         <p><em>| Tips: I am the <b>major contributor</b>, some details are in the <b>Author Contributions</b> below</em></p>
         <!-- heading -->
-        <papertitle><b> $\lambda$Scale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
+        <papertitle><b> LambdaScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
         <br>
         <!-- conference & date -->
