@@ -129,7 +129,7 @@ td, th {
           Advisor: <a
             href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
           <br>
-          Feb 2025 ~ Present
+          Jan 2025 ~ Present
         </div>
       </td>
     </tr>
@@ -148,7 +148,7 @@ td, th {
             href="https://tddg.github.io/">Yue Cheng</a>, <a
             href="https://www.cse.ust.hk/~weiwa/">Wei Wang</a>
           <br>
-          March 2024 ~ Feb 2025
+          March 2024 ~ Jan 2025
         </div>
       </td>
     </tr>
