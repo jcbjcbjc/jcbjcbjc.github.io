@@ -16,7 +16,7 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+I am an incoming Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
 Right now I’m fortunate to work with [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai) at UIUC. I also work closely with SGLang Team, contributing to SGLang part-time.
 
@@ -54,8 +54,7 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Efficient and low-cost model serving systems</b>
-* <b>SW-HW Co-design</b>
+* <b>Efficient and reliable ML systems</b>
 
 <h2 class="col">
 <font color=black>News</font>
