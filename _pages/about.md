@@ -31,6 +31,7 @@ During my career, I am fortunate to work and intern at ByteDance.
 </h2>
 ---
 * B.S., Software Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2021.9-2025.6
+* Ph.D , Computer Science, [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), 2025.9-2029.6(expected)
 
 <!-- * Looking for chances of Summer research experience in US or Singpore -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
@@ -54,6 +55,7 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
+* <b>Efficient ML Algorithm</b>
 * <b>Efficient and reliable ML systems</b>
 
 <h2 class="col">
