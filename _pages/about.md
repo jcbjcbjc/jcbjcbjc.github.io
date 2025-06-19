@@ -18,7 +18,7 @@ redirect_from:
 
 I am an incoming Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
-Right now I am a research intern in Bytedance Seed Team and meanwhile I’m fortunate to work with [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai) at UIUC. I also work closely with SGLang Team, contributing to SGLang part-time.
+Right now I am a research intern in Bytedance Seed Team advised by [Haibin Li](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/). I also work closely with SGLang Team, contributing to SGLang part-time.
 
 Previously, I was very fortunate to be advised by [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai)(UIUC), [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) in my undergrad Research.
 
