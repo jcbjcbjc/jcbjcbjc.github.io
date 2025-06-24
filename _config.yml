@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "about.jpg"
+  avatar           : "myphoto.jpeg"
   name             : "Chaobo Jia"
   pronouns         : # example: "she/her"  
   bio              : "贾超博"
