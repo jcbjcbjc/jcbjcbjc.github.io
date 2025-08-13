@@ -101,8 +101,8 @@ td, th {
         <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
         <br>
         <!-- links -->
-        <a href="files/supporting-letter.pdf">Author Contributions</a>
-        / <a href="">code</a>
+        <!-- <a href="">Author Contributions</a> -->
+        <a href="">code</a>
         / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
         / <a href="">Poster</a>
       </td>
