@@ -55,8 +55,8 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Efficient ML Algorithm</b>
-* <b>Efficient and reliable ML systems</b>
+* <b>Large-scale Pre-train & Post-train</b>
+* <b>Machine learning & Natural language processing.</b>
 
 <h2 class="col">
 <font color=black>News</font>
