@@ -83,7 +83,7 @@ td, th {
 
 
 <!-- style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;" -->
-<table class="content-table">
+<!-- <table class="content-table">
   <tbody>
     <tr>
       <td style="padding:1px 2px;width:25%;vertical-align:middle">
@@ -108,7 +108,7 @@ td, th {
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 
