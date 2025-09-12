@@ -83,7 +83,7 @@ td, th {
 
 
 <!-- style="width:100%;max-width:900px;border:none;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;margin-top:75px;" -->
-<!-- <table class="content-table">
+<table class="content-table">
   <tbody>
     <tr>
       <td style="padding:1px 2px;width:25%;vertical-align:middle">
@@ -91,24 +91,24 @@ td, th {
       </td>
       <td width="75%" valign="middle">
         <!-- tips -->
-        <p><em>| Tips: I am the <b>major contributor</b> </em></p>
+        <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
         <!-- heading -->
-        <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
+        <!-- <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle> -->
         <!-- authors -->
         <br>
         <!-- conference & date -->
         <br>
-        <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
+        <!-- <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025 -->
         <br>
         <!-- links -->
         <!-- <a href="">Author Contributions</a> -->
-        <a href="">code</a>
+        <!-- <a href="">code</a>
         / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
-        / <a href="">Poster</a>
+        / <a href="">Poster</a> -->
       </td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 
 
