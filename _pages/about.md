@@ -86,25 +86,25 @@ td, th {
 <table class="content-table">
   <tbody>
     <tr>
-      <!-- <td style="padding:1px 2px;width:25%;vertical-align:middle">
+      <td style="padding:1px 2px;width:25%;vertical-align:middle">
         <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
-      </td> -->
+      </td>
       <td width="75%" valign="middle">
         <!-- tips -->
         <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
         <!-- heading -->
-        <!-- <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle> -->
+        <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
         <br>
         <!-- conference & date -->
         <br>
-        <!-- <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025 -->
+        <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
         <br>
         <!-- links -->
         <!-- <a href="">Author Contributions</a> -->
-        <!-- <a href="">code</a>
+        <a href="">code</a>
         / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
-        / <a href="">Poster</a> -->
+        / <a href="">Poster</a>
       </td>
     </tr>
   </tbody>
