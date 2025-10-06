@@ -18,7 +18,7 @@ redirect_from:
 
 I am an incoming Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
-Right now I am a research intern in Bytedance Seed Team advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/). 
+Right now I am a research intern in Bytedance Seed Team advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on efficient RL algo&infra and hyper-scale pre-train. 
 
 <!-- I also work closely with SGLang Team, contributing to SGLang part-time. -->
 
@@ -26,7 +26,7 @@ Right now I am a research intern in Bytedance Seed Team advised by [Haibin Lin](
 
 <!-- Previously, I was very fortunate to be advised by [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai)(UIUC), [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) in my undergrad Research. -->
 
-During my career, I am fortunate to work and intern at ByteDance.
+<!-- During my career, I am fortunate to work and intern at ByteDance. -->
 
 <!-- > please feel free to chat with me or drop me an email! -->
 
@@ -59,7 +59,7 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Large-scale Pre-train & Post-train</b>
+* <b>Hyper-scale Pre-train & Post-train</b>
 * <b>Machine learning & Natural language processing.</b>
 
 <h2 class="col">
