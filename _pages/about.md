@@ -16,7 +16,7 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I am an incoming Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I will receive my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+I am a Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
 Right now I am a research intern in Bytedance Seed Team advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on efficient RL algo&infra and hyper-scale pre-train. 
 
