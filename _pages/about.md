@@ -90,6 +90,30 @@ td, th {
 <table class="content-table">
   <tbody>
     <tr>
+      <!-- <td style="padding:1px 2px;width:25%;vertical-align:middle">
+        <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
+      </td> -->
+      <td width="75%" valign="middle">
+        <!-- tips -->
+        <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
+        <!-- heading -->
+        <papertitle><b> Laminar: A Scalable Asynchronous RL Post-Training Framework </b></papertitle>
+        <!-- authors -->
+        G. Sheng, Y. Tong, B. Wan, W. Zhang, <b>C. Jia</b>, X. Wu, Y. Wu, X. Li, C. Zhang, Y. Peng, H. Lin, X. Liu, C. Wu
+        <br> 
+        <!-- conference & date -->
+        <br>
+        <em>(<a href="https://arxiv.org/pdf/2510.12633?">arXiv</a> available)</em>, 2025
+        <br>
+        <!-- links -->
+        <!-- <a href="">Author Contributions</a> -->
+        <a href="">code</a>
+        / <a href="https://arxiv.org/pdf/2510.12633?">arXiv</a>
+        / <a href="">Poster</a>
+      </td>
+    </tr>
+
+    <tr>
       <td style="padding:1px 2px;width:25%;vertical-align:middle">
         <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
       </td>
@@ -99,6 +123,7 @@ td, th {
         <!-- heading -->
         <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
+        M. Yu, R. Yang, <b>C. Jia</b>, Z. Su, S. Yao, T. Lan, Y. Yang, Y. Cheng, W. Wang, A. Wang, R. Chen
         <br>
         <!-- conference & date -->
         <br>
