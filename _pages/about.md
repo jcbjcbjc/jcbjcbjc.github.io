@@ -100,6 +100,7 @@ td, th {
         <!-- heading -->
         <papertitle><b> Laminar: A Scalable Asynchronous RL Post-Training Framework </b></papertitle>
         <!-- authors -->
+        <br>
         G. Sheng, Y. Tong, B. Wan, W. Zhang, <b>C. Jia</b>, X. Wu, Y. Wu, X. Li, C. Zhang, Y. Peng, H. Lin, X. Liu, C. Wu
         <!-- conference & date -->
         <br>
@@ -124,6 +125,7 @@ td, th {
         <!-- heading -->
         <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
+        <br>
         M. Yu, R. Yang, <b>C. Jia</b>, Z. Su, S. Yao, T. Lan, Y. Yang, Y. Cheng, W. Wang, A. Wang, R. Chen
         <!-- conference & date -->
         <br>
