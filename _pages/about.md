@@ -59,8 +59,9 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Hyper-scale Pre-train & Post-train</b>
-* <b>Machine learning & Natural language processing.</b>
+* <b>Training for long-running, multi-modal and high-interaction agent tasks</b>
+* <b>Efficient post-train for LLMs, VLMs, VLA</b>
+* <b>Hyper-scale Pre-train</b>
 
 <h2 class="col">
 <font color=black>News</font>
@@ -115,9 +116,9 @@ td, th {
   </tbody>
   <tbody>
     <tr>
-      <td style="padding:1px 2px;width:25%;vertical-align:middle">
+      <!-- <td style="padding:1px 2px;width:25%;vertical-align:middle">
         <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
-      </td>
+      </td> -->
       <td width="75%" valign="middle">
         <!-- tips -->
         <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
