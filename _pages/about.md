@@ -112,7 +112,8 @@ td, th {
         / <a href="">Poster</a>
       </td>
     </tr>
-
+  </tbody>
+  <tbody>
     <tr>
       <td style="padding:1px 2px;width:25%;vertical-align:middle">
         <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
