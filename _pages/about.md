@@ -101,7 +101,7 @@ td, th {
         <papertitle><b> Laminar: A Scalable Asynchronous RL Post-Training Framework </b></papertitle>
         <!-- authors -->
         <br>
-        G. Sheng, Y. Tong, B. Wan, W. Zhang, <b>C. Jia</b>, X. Wu, Y. Wu, X. Li, C. Zhang, Y. Peng, H. Lin, X. Liu, C. Wu
+        G. Sheng, Y. Tong, B. Wan, W. Zhang, <b><u>C. Jia</u></b>, X. Wu, Y. Wu, X. Li, C. Zhang, Y. Peng, H. Lin, X. Liu, C. Wu
         <!-- conference & date -->
         <br>
         <em>(<a href="https://arxiv.org/pdf/2510.12633?">arXiv</a> available)</em>, 2025
@@ -126,10 +126,10 @@ td, th {
         <papertitle><b> λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</b></papertitle>
         <!-- authors -->
         <br>
-        M. Yu, R. Yang, <b>C. Jia</b>, Z. Su, S. Yao, T. Lan, Y. Yang, Y. Cheng, W. Wang, A. Wang, R. Chen
+        M. Yu, R. Yang, <b><u>C. Jia</u></b>, Z. Su, S. Yao, T. Lan, Y. Yang, Y. Cheng, W. Wang, A. Wang, R. Chen
         <!-- conference & date -->
         <br>
-        <b>MLSys '26</b>
+        <b><font color="blue">MLSys '26</font></b>
         <br>
         <!-- links -->
         <!-- <a href="">Author Contributions</a> -->
