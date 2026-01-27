@@ -59,7 +59,7 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Training for long-running, multi-modal and high-interaction agent tasks</b>
+* <b>Multi-modal and long-interaction agentic task</b>
 * <b>Efficient post-train for LLMs, VLMs, VLA</b>
 * <b>Hyper-scale Pre-train</b>
 
