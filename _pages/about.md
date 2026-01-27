@@ -129,13 +129,12 @@ td, th {
         M. Yu, R. Yang, <b>C. Jia</b>, Z. Su, S. Yao, T. Lan, Y. Yang, Y. Cheng, W. Wang, A. Wang, R. Chen
         <!-- conference & date -->
         <br>
-        <em>(<a href="https://arxiv.org/pdf/2502.09922">arXiv</a> available)</em>, 2025
+        <b>MLSys '26</b>
         <br>
         <!-- links -->
         <!-- <a href="">Author Contributions</a> -->
-        <a href="">code</a>
-        / <a href="https://arxiv.org/pdf/2502.09922">arXiv</a>
-        / <a href="">Poster</a>
+        <a href="https://github.com/lambda-scale/lambda-scale">code</a>
+        / <a href="https://arxiv.org/pdf/2502.09922">paper</a>
       </td>
     </tr>
   </tbody>
