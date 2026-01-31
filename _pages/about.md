@@ -34,8 +34,8 @@ Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin
 <font color=black>Education</font>
 </h2>
 ---
-* B.S., Software Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2021.9-2025.6
 * Ph.D , Computer Science, [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), 2025.9-2029.6(expected)
+* B.S., Software Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2021.9-2025.6
 
 <!-- * Looking for chances of Summer research experience in US or Singpore -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
@@ -104,13 +104,10 @@ td, th {
         G. Sheng, Y. Tong, B. Wan, W. Zhang, <b><u>C. Jia</u></b>, X. Wu, Y. Wu, X. Li, C. Zhang, Y. Peng, H. Lin, X. Liu, C. Wu
         <!-- conference & date -->
         <br>
-        <em>(<a href="https://arxiv.org/pdf/2510.12633?">arXiv</a> available)</em>, 2025
+        <b><font color="blue">EuroSys '26</font></b>
         <br>
         <!-- links -->
-        <!-- <a href="">Author Contributions</a> -->
-        <a href="">code</a>
-        / <a href="https://arxiv.org/pdf/2510.12633?">arXiv</a>
-        / <a href="">Poster</a>
+        <a href="https://arxiv.org/pdf/2510.12633">paper</a>
       </td>
     </tr>
   </tbody>
