@@ -59,8 +59,8 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Multi-modal and long-interaction agentic task</b>
-* <b>Efficient post-train for LLMs, VLMs, VLA</b>
+* <b>Long-Interaction Agentic Task</b>
+* <b>Efficient RL Algo&Infra</b>
 * <b>Hyper-scale Pre-train</b>
 
 <h2 class="col">
