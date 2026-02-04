@@ -147,11 +147,11 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/bytedance.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
+        <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
       </td>
       <td class="section-content">
         <div class="section-title">
-          <b>ByteDance Seed Team</b>, Shanghai, China
+          <b>ByteDance Seed</b>, Shanghai, China
           <br>
           Research Intern
           <br>
