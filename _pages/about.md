@@ -18,7 +18,7 @@ redirect_from:
 
 I am a Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
-Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-Scale Pre-train. 
+Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train. 
 
 <!-- I also work closely with SGLang Team, contributing to SGLang part-time. -->
 
@@ -59,7 +59,7 @@ td, th {
 <font color=black>Research Interests</font>
 </h2>
 
-* <b>Long-Interaction Agentic Task</b>
+* <b>Long-Horizon Agentic Task</b>
 * <b>Agentic RL</b>
 * <b>Hyper-scale Pre-train</b>
 
