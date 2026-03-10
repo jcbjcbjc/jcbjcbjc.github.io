@@ -16,7 +16,7 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I am a Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+I am a Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
 Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train. 
 
@@ -172,7 +172,7 @@ td, th {
           Advisor: <a
             href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
           <br>
-          Jan 2025 ~ Present
+          Jan 2025 ~ May 2025
         </div>
       </td>
     </tr>
