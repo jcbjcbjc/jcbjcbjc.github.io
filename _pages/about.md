@@ -16,7 +16,7 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I am a first-year Ph.D. Candidate at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+I am a first-year Ph.D. Candidate at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).
 
 I am currently doing research on agent swarm and long-horizon agents at Kimi RL Team. Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
 
@@ -194,7 +194,7 @@ td, th {
           Advisor: <a
             href="https://grainger.illinois.edu/about/directory/faculty/fanlai">Fan Lai</a>
           <br>
-          Jan 2025 ~ Present
+          Jan 2025 ~ May 2025
         </div>
       </td>
     </tr> -->
