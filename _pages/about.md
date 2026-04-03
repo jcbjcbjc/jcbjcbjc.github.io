@@ -151,7 +151,7 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/kimi.png" alt="kimi logo" class="section-image-small" width="70" height="70">
+        <img src="images/Experience/kimi.png" alt="kimi logo" class="section-image-small" width="65" height="65">
       </td>
       <td class="section-content">
         <div class="section-title">
@@ -165,7 +165,7 @@ td, th {
     </tr>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="130" height="130">
+        <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="170" height="170">
       </td>
       <td class="section-content">
         <div class="section-title">

@@ -7,6 +7,8 @@ local/
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
+vendor/
+
 # Ingore files created by npm
 node_modules
 package-lock.json

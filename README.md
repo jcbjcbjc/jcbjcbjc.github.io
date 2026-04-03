@@ -20,14 +20,48 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+For this repository on macOS, the commands below are the ones that work:
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```bash
+cd /Users/jiachaobo/Desktop/code/jcbjcbjc.github.io
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+brew install ruby@3.2
+export PATH="/opt/homebrew/opt/ruby@3.2/bin:$PATH"
+
+bundle config set --local path vendor/bundle
+bundle config set --local without development
+CPLUS_INCLUDE_PATH="$(xcrun --show-sdk-path)/usr/include/c++/v1" bundle install
+
+# auto-kill anything listening on port 4000
+kill -9 $(lsof -tiTCP:4000 -sTCP:LISTEN) 2>/dev/null || true
+
+# bundle exec jekyll serve -H localhost -l
+/opt/homebrew/opt/ruby@3.2/bin/bundle exec jekyll serve -H localhost -l
+```
+
+Then open:
+
+```text
+http://localhost:4000
+```
+
+Notes:
+
+1. If you update `_config.yml`, stop the server and rerun `/opt/homebrew/opt/ruby@3.2/bin/bundle exec jekyll serve -H localhost -l`.
+1. If you do not want to kill the existing process on `4000`, use `/opt/homebrew/opt/ruby@3.2/bin/bundle exec jekyll serve -H localhost -P 4001 -l`.
+1. The `CPLUS_INCLUDE_PATH=... bundle install` step is needed on this machine so the `eventmachine` native extension can compile successfully.
+
+## Redeploy
+
+After you confirm the local preview is correct, redeploy to GitHub Pages with:
+
+```bash
+git add .
+git commit -m "update site"
+git push origin master
+```
+
+GitHub Pages will rebuild automatically after the push.
 
 # Maintenance 
 
