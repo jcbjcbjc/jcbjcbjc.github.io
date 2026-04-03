@@ -16,15 +16,19 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I am a Ph.D. student at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
+I am a first-year Ph.D. Candidate at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).And I received my B.Eng. degree in School of Software Engineering from [HuaZhong University of Science and Technology](http://english.hust.edu.cn/) (HUST) in 2025.
 
-Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train. 
+I am currently doing research on agent swarm and long-horizon agents at Kimi RL Team. Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
+
+Currently, I am focusing on:
+1) **Agent Swarm**: Scaling Model Capability via Agent Swarm
+2) **Long-Horizon Agent**: Developing Generalizable Long-Horizon Agent
+
+<!-- Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train.  -->
 
 <!-- I also work closely with SGLang Team, contributing to SGLang part-time. -->
 
 <!-- Right now I am a research intern in Bytedance Seed Team advised by [Haibin Lin](https://sites.google.com/view/haibinlin/). I also work closely with SGLang Team, contributing to SGLang part-time. -->
-
-<!-- Previously, I was very fortunate to be advised by [Fan Lai](https://grainger.illinois.edu/about/directory/faculty/fanlai)(UIUC), [Yue Cheng](https://tddg.github.io/)(UVA), [Wei Wang](https://www.cse.ust.hk/~weiwa/)(HKUST), [Minchen Yu](https://sds.cuhk.edu.cn/en/teacher/1246)(CUHK,SZ), [Jiasi Shen](https://shenjiasi.com/)(HKUST) in my undergrad Research. -->
 
 <!-- During my career, I am fortunate to work and intern at ByteDance. -->
 
@@ -55,13 +59,13 @@ td, th {
 </style>
 
 
-<h2 class="col">
+<!-- <h2 class="col">
 <font color=black>Research Interests</font>
 </h2>
 
 * <b>Long-Horizon Agentic Task</b>
 * <b>Agentic RL</b>
-* <b>Hyper-scale Pre-train</b>
+* <b>Hyper-scale Pre-train</b> -->
 
 <h2 class="col">
 <font color=black>News</font>
@@ -140,11 +144,25 @@ td, th {
 
 
 <h2 class="col">
-<font color=black>Experiences</font>
+<font color=black>Industry Experiences</font>
 </h2>
 
 <table class="content-table">
   <tbody>
+    <tr>
+      <td class="section-image-small">
+        <img src="images/Experience/kimi.png" alt="kimi logo" class="section-image-small" width="150" height="150">
+      </td>
+      <td class="section-content">
+        <div class="section-title">
+          <b>Kimi</b>, Beijing, China
+          <br>
+          Research Intern
+          <br>
+          Mar 2026 ~ present
+        </div>
+      </td>
+    </tr>
     <tr>
       <td class="section-image-small">
         <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="150" height="150">
@@ -155,11 +173,15 @@ td, th {
           <br>
           Research Intern
           <br>
-          May 2025 ~ present
+          Advisor: <a
+            href="https://sites.google.com/view/haibinlin/">Haibin Lin</a>, <a
+            href="https://sites.google.com/view/yanghuapeng/">Yanghua Peng</a>
+          <br>
+          May 2025 ~ Mar 2026
         </div>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="section-image-extreme">
         <img src="images/Experience/uiuc.png" alt="uiuc logo" class="section-image-extreme" width="70" height="70">
       </td>
@@ -175,7 +197,7 @@ td, th {
           Jan 2025 ~ Present
         </div>
       </td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="section-image-small">
         <img src="images/Experience/uva.png" alt="uva logo" class="section-image-small" width="70" height="70">
