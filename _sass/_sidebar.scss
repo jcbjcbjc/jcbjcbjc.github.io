@@ -2,6 +2,8 @@
    SIDEBAR
    ========================================================================== */
 
+$sidebar-original-sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
 /*
    Default
    ========================================================================== */
@@ -38,17 +40,25 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $sidebar-original-sans-serif;
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+    font-size: 16px;
+
+    @include breakpoint($medium) {
+      font-size: 18px;
+    }
   }
 
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-family: $sidebar-original-sans-serif;
+    font-size: 12px;
     line-height: 1.5;
+
+    @include breakpoint($medium) {
+      font-size: 13.5px;
+    }
   }
 
   img {
@@ -124,8 +134,12 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-family: $sidebar-original-sans-serif;
+  font-size: 16px;
+
+  @include breakpoint($medium) {
+    font-size: 18px;
+  }
 }
 
 .sidebar .author__desktop {
@@ -157,7 +171,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $sidebar-original-sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;

@@ -20,8 +20,8 @@ I am a first-year Ph.D. Candidate at [The Chinese university of Hong Kong](https
 
 I am currently doing research on agent swarm and long-horizon agents at Kimi RL Team. Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
 
-Currently, I am focusing on:
-1) **Agent Swarm**: Scaling Model Capability via Agent Swarm
+Currently, I am focusing on: 
+1) **Agent Swarm**: Scaling Model Capability via Agent Swarm 
 2) **Long-Horizon Agent**: Developing Generalizable Long-Horizon Agent
 
 <!-- Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train.  -->
@@ -151,7 +151,7 @@ td, th {
   <tbody>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/kimi.png" alt="kimi logo" class="section-image-small" width="150" height="150">
+        <img src="images/Experience/kimi.png" alt="kimi logo" class="section-image-small" width="75" height="75">
       </td>
       <td class="section-content">
         <div class="section-title">
