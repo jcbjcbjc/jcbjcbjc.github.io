@@ -165,7 +165,7 @@ td, th {
     </tr>
     <tr>
       <td class="section-image-small">
-        <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="100" height="100">
+        <img src="images/Experience/seed.png" alt="bytedance logo" class="section-image-small" width="130" height="130">
       </td>
       <td class="section-content">
         <div class="section-title">
