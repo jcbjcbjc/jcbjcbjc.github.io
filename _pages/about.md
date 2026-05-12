@@ -16,7 +16,7 @@ redirect_from:
 </h2>
 <!-- --- -->
 
-I am a first-year Ph.D. Candidate at [The Chinese university of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).
+I am a first-year Ph.D. Candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).
 
 **I am currently doing research on agent swarm and long-horizon agents at [Kimi](https://www.moonshot.ai/) RL Team**. Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
 
