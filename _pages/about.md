@@ -102,6 +102,28 @@ td, th {
         <!-- tips -->
         <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
         <!-- heading -->
+        <papertitle><b> GameGen-Verifier: Parallel Keypoint-Based Verification for LLM-Generated Games via Runtime State Injection </b></papertitle>
+        <!-- authors -->
+        <br>
+        <b><u>C. Jia</u></b>, R. Wan, T. Sun, W. Tan, B. Wan, Y. Tong, G. Sheng, X. Hong
+        <!-- conference & date -->
+        <br>
+        <b><font color="blue">Arxiv</font></b>
+        <br>
+        <!-- links -->
+        <a href="https://arxiv.org/abs/2605.07442">paper</a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <!-- <td style="padding:1px 2px;width:25%;vertical-align:middle">
+        <img src="images/publications/faascale.png" class="pub-image" width="180" height="150">
+      </td> -->
+      <td width="75%" valign="middle">
+        <!-- tips -->
+        <!-- <p><em>| Tips: I am the <b>major contributor</b> </em></p> -->
+        <!-- heading -->
         <papertitle><b> Laminar: A Scalable Asynchronous RL Post-Training Framework </b></papertitle>
         <!-- authors -->
         <br>
