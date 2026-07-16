@@ -18,11 +18,12 @@ redirect_from:
 
 I am a first-year Ph.D. Candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).
 
-**I am currently doing research on agent swarm and long-horizon agents at [Kimi](https://www.moonshot.ai/) RL Team**. Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
+**I am currently a researcher at [Kimi](https://www.moonshot.ai/) RL Team**(K2.6, K3). Prior to that, I was a research intern at  <b>Bytedance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
 
-Currently, I am focusing on: 
-1) **Agent Swarm**: Scaling Model Capability via Agent Swarm 
-2) **Long-Horizon Agent**: Developing Generalizable Long-Horizon Agent
+My current research focuses on scaling model capability along three axes:
+1) **Agent Swarm**
+2) **Long-Horizon Agent**
+3) **Self-Verification**
 
 <!-- Right now I am a research intern in <b>Bytedance Seed</b> advised by [Haibin Lin](https://sites.google.com/view/haibinlin/) and [Yanghua Peng](https://sites.google.com/view/yanghuapeng/) focusing on Agentic RL and Hyper-scale Pre-train.  -->
 
