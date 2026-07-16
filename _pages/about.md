@@ -18,7 +18,7 @@ redirect_from:
 
 I am a first-year Ph.D. Candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Hong Xu](https://henryhxu.github.io/).
 
-**I am currently a researcher at the [Kimi](https://www.moonshot.ai/) RL Team(K2.6, K3)**. Prior to that, I was a research intern at  <b>ByteDance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
+**I am currently a researcher at the [Kimi](https://www.moonshot.ai/) RL Team (K2.6, K3)**. Prior to that, I was a research intern at  <b>ByteDance Seed</b> focusing on Async RL and Hyper-scale Pre-train. 
 
 My current research focuses on scaling model capability along three axes:
 1) **Agent Swarm**
